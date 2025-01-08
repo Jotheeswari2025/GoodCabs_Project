@@ -1,0 +1,11 @@
+city_name,TotalTrips,AverageFarePerTrip,AverageFarePerKm,PercentageContributionTotalTrips
+Jaipur,76888,483.92,16.12,18.00%
+Lucknow,64299,147.18,11.76,15.00%
+Surat,54843,117.27,10.66,13.00%
+Kochi,50702,335.25,13.93,12.00%
+Indore,42456,179.84,10.90,10.00%
+Chandigarh,38981,283.69,12.06,9.00%
+Vadodara,32026,118.57,10.29,8.00%
+Visakhapatnam,28366,282.67,12.53,7.00%
+Coimbatore,21104,166.98,11.15,5.00%
+Mysore,16238,249.71,15.14,4.00%
