@@ -10,7 +10,13 @@
  trips_db and targets_db are the 2 dbs used to connect sql and powerbi to provide insights.
 
 **Datamodel**
-   I used star schema to connect tables having city table as fact table and joining other tables with city_id column and attached screenshot
+   I used star schema to connect tables having city table as fact table and joining other tables with city_id column
+   
+**Tools used**
+  SQL
+  PowerBI
+  Excel
+
 
 
 
